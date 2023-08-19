@@ -1,0 +1,20 @@
+badminton
+https://st6.cannypic.com/thumbs/14/148725_632_canny_pic.jpg
+https://i.pinimg.com/originals/7e/09/f1/7e09f1e91df492439a14d63840fd9128.gif
+
+basketball
+https://cdn.create.vista.com/api/media/small/414417972/stock-vector-basketball-ball-basketball-court-area
+https://assets9.lottiefiles.com/private_files/lf30_za3gyc1r.json
+
+tennis
+https://media.istockphoto.com/vectors/tennis-court-vector-id538192214?b=1&k=20&m=538192214&s=612x612&w=0&h=ZdV5C-nt-fHG8zZzDmDvLAx1Fnr0I0YJtSRUczuyQSs=
+https://assets2.lottiefiles.com/packages/lf20_qxa7vvmh.json
+
+billiard
+https://static.vecteezy.com/system/resources/previews/000/160/183/original/free-outstanding-billiard-vectors.jpg
+https://assets2.lottiefiles.com/packages/lf20_ngkuz1ow.json
+
+# testing cards for payment
+4242 4242 4242 4242     Succeeds and immediately processes the payment.
+4000 0025 0000 3155 	Requires authentication. Stripe will trigger a modal asking for the customer to authenticate.
+4000 0000 0000 9995 	Always fails with a decline code of insufficient_funds.

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "109225475040",
+    "firebase_url": "https://housingservices-ad8cb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "housingservices-ad8cb",
+    "storage_bucket": "housingservices-ad8cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109225475040:android:f888a4a0cc240999478985",
+        "android_client_info": {
+          "package_name": "com.example.housing_estate_services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109225475040-i6l656bp1b250v5idj9vhe3ved8se2bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX-dQjWmxZ_8zpbNCm1-eTXf7iZjRPzmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109225475040-i6l656bp1b250v5idj9vhe3ved8se2bf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "109225475040-dc8jnvgh5uams119mncnospejat922i7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.housingEstateServices"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
